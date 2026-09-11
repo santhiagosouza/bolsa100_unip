@@ -1,0 +1,9 @@
+{
+  "providers": ["node"],
+  "build": {
+    "cmds": ["npm install"]
+  },
+  "start": {
+    "cmd": "node server.js"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+propostas.json
+scratch/
+.DS_Store
